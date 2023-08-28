@@ -1,5 +1,0 @@
-{{#am05sky}}
-Name: Shaik Amreen
-Skills: HTML, CSS, Python, Django
-Email: 203h1a0502@klmcew.ac.in
-{{/amu05sky}}
